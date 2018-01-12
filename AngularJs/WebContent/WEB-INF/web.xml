@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+	id="WebApp_ID" version="3.1">
+	<display-name>AngularJs</display-name>
+	<welcome-file-list>
+		<welcome-file>/WEB-INF/jsp/ng-model.jsp</welcome-file>
+		<!-- <welcome-file>/WEB-INF/jsp/ng-controller.jsp</welcome-file> -->
+		<!-- <welcome-file>/WEB-INF/jsp/object.jsp</welcome-file> -->
+		<!-- <welcome-file>/WEB-INF/jsp/directive.jsp</welcome-file> -->
+		<!-- <welcome-file>/WEB-INF/jsp/comment.jsp</welcome-file> -->
+		<!-- <welcome-file>/WEB-INF/jsp/validation.jsp</welcome-file> -->
+		<!-- <welcome-file>/WEB-INF/jsp/ng-click.jsp</welcome-file> -->
+		<!-- <welcome-file>/WEB-INF/jsp/ng-filter.jsp</welcome-file> -->
+		<!-- <welcome-file>/WEB-INF/jsp/ng-filterOnClick.jsp</welcome-file> -->
+		<!-- <welcome-file>/WEB-INF/jsp/ng-filterCustom.jsp</welcome-file> -->
+		
+		<!-- <welcome-file>/WEB-INF/jsp/service/location.jsp</welcome-file> -->
+		<!-- <welcome-file>/WEB-INF/jsp/service/http.jsp</welcome-file> -->
+		<!-- <welcome-file>/WEB-INF/jsp/service/timeout.jsp</welcome-file> -->
+		<!-- <welcome-file>/WEB-INF/jsp/service/interval.jsp</welcome-file> -->
+		<!-- <welcome-file>/WEB-INF/jsp/service/custom.jsp</welcome-file> -->
+		
+		<!-- <welcome-file>/WEB-INF/jsp/select.jsp</welcome-file> -->
+		
+		<!-- <welcome-file>/WEB-INF/jsp/all/myAngularJs.jsp</welcome-file> -->
+		
+		<!-- <welcome-file>/WEB-INF/jsp/dom/ng-disabled.jsp</welcome-file> -->
+		
+		<!-- <welcome-file>/WEB-INF/jsp/event/mouse.jsp</welcome-file> -->
+		
+		<!-- <welcome-file>/WEB-INF/jsp/form/rediobutton.jsp</welcome-file> -->
+		
+	</welcome-file-list>
+</web-app>
